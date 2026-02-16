@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Arri2424
-- 👀 I’m interested in application of AI in Geography
-- 🌱 I’m currently learning Landscape analysis
-- 💞️ I’m looking to collaborate on Remote Sensing data 
-- 📫 You can each me at: ao49206@uga.edu  
+- 👀 I’m interested in the application of AI in Geography, and in collaborating on Remote Sensing data 
 - 😄 Pronouns: He/Him/His
 
 <!---
